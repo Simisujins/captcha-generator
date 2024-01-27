@@ -1,0 +1,44 @@
+.container{
+    text-align: center;
+    margin-top: 5%;
+    width: 400px;
+    height: 300px;
+    background-color: whitesmoke;
+    margin-left: 35%;
+    padding: 6px;
+}
+.refresh{
+ 
+  display: flex;
+  gap: 6px;
+  margin-left: 20px;
+  
+
+  
+}
+.refresh input{
+    padding: 2%;
+    width: 70%;
+    background-color: gainsboro;
+    border: none;
+}
+.refresh1{
+    background-color: blue;
+    border-radius: 8px;
+}
+.verify{
+    margin-top: 20px;
+    display: flex;
+    gap: 3px;
+    margin-left: 20px;
+}
+.verify input{
+    padding: 2%;
+    width: 70%;
+
+}
+.verify1{
+    background-color: green;
+    border-radius: 6px;
+    padding: 10px;
+}
